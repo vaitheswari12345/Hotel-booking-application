@@ -1,0 +1,129 @@
+hotel_id,hotel_name,city,state,hotel_type,rating,price_per_night,amenities,available_rooms
+1,Chennai Grand Hotel,Chennai,Tamil Nadu,Luxury,4.6,5600,"WiFi, Pool, Gym, Breakfast, Parking",5
+2,Chennai Comfort Hotel,Chennai,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+3,Chennai Heritage Hotel,Chennai,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+4,Chennai Residency Hotel,Chennai,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+5,Coimbatore Grand Hotel,Coimbatore,Tamil Nadu,Luxury,4.6,5600,"WiFi, Pool, Gym, Breakfast, Parking",5
+6,Coimbatore Comfort Hotel,Coimbatore,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+7,Coimbatore Heritage Hotel,Coimbatore,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+8,Coimbatore Residency Hotel,Coimbatore,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+9,Madurai Grand Hotel,Madurai,Tamil Nadu,Luxury,4.6,5200,"WiFi, Pool, Gym, Breakfast, Parking",5
+10,Madurai Comfort Hotel,Madurai,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+11,Madurai Heritage Hotel,Madurai,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+12,Madurai Residency Hotel,Madurai,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+13,Tiruchirappalli Grand Hotel,Tiruchirappalli,Tamil Nadu,Luxury,4.6,5300,"WiFi, Pool, Gym, Breakfast, Parking",5
+14,Tiruchirappalli Comfort Hotel,Tiruchirappalli,Tamil Nadu,Premium,4.3,3700,"WiFi, Breakfast, Parking, AC",9
+15,Tiruchirappalli Heritage Hotel,Tiruchirappalli,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+16,Tiruchirappalli Residency Hotel,Tiruchirappalli,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+17,Salem Grand Hotel,Salem,Tamil Nadu,Luxury,4.6,5300,"WiFi, Pool, Gym, Breakfast, Parking",5
+18,Salem Comfort Hotel,Salem,Tamil Nadu,Premium,4.3,3400,"WiFi, Breakfast, Parking, AC",9
+19,Salem Heritage Hotel,Salem,Tamil Nadu,Standard,4.1,2600,"WiFi, Restaurant, Parking, AC",12
+20,Salem Residency Hotel,Salem,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+21,Tirunelveli Grand Hotel,Tirunelveli,Tamil Nadu,Luxury,4.6,5400,"WiFi, Pool, Gym, Breakfast, Parking",5
+22,Tirunelveli Comfort Hotel,Tirunelveli,Tamil Nadu,Premium,4.3,3400,"WiFi, Breakfast, Parking, AC",9
+23,Tirunelveli Heritage Hotel,Tirunelveli,Tamil Nadu,Standard,4.1,2600,"WiFi, Restaurant, Parking, AC",12
+24,Tirunelveli Residency Hotel,Tirunelveli,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+25,Erode Grand Hotel,Erode,Tamil Nadu,Luxury,4.6,5400,"WiFi, Pool, Gym, Breakfast, Parking",5
+26,Erode Comfort Hotel,Erode,Tamil Nadu,Premium,4.3,3500,"WiFi, Breakfast, Parking, AC",9
+27,Erode Heritage Hotel,Erode,Tamil Nadu,Standard,4.1,2400,"WiFi, Restaurant, Parking, AC",12
+28,Erode Residency Hotel,Erode,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+29,Vellore Grand Hotel,Vellore,Tamil Nadu,Luxury,4.6,5500,"WiFi, Pool, Gym, Breakfast, Parking",5
+30,Vellore Comfort Hotel,Vellore,Tamil Nadu,Premium,4.3,3500,"WiFi, Breakfast, Parking, AC",9
+31,Vellore Heritage Hotel,Vellore,Tamil Nadu,Standard,4.1,2400,"WiFi, Restaurant, Parking, AC",12
+32,Vellore Residency Hotel,Vellore,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+33,Thoothukudi Grand Hotel,Thoothukudi,Tamil Nadu,Luxury,4.6,5500,"WiFi, Pool, Gym, Breakfast, Parking",5
+34,Thoothukudi Comfort Hotel,Thoothukudi,Tamil Nadu,Premium,4.3,3500,"WiFi, Breakfast, Parking, AC",9
+35,Thoothukudi Heritage Hotel,Thoothukudi,Tamil Nadu,Standard,4.1,2400,"WiFi, Restaurant, Parking, AC",12
+36,Thoothukudi Residency Hotel,Thoothukudi,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+37,Dindigul Grand Hotel,Dindigul,Tamil Nadu,Luxury,4.6,5600,"WiFi, Pool, Gym, Breakfast, Parking",5
+38,Dindigul Comfort Hotel,Dindigul,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+39,Dindigul Heritage Hotel,Dindigul,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+40,Dindigul Residency Hotel,Dindigul,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+41,Thanjavur Grand Hotel,Thanjavur,Tamil Nadu,Luxury,4.6,5600,"WiFi, Pool, Gym, Breakfast, Parking",5
+42,Thanjavur Comfort Hotel,Thanjavur,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+43,Thanjavur Heritage Hotel,Thanjavur,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+44,Thanjavur Residency Hotel,Thanjavur,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+45,Karur Grand Hotel,Karur,Tamil Nadu,Luxury,4.6,5200,"WiFi, Pool, Gym, Breakfast, Parking",5
+46,Karur Comfort Hotel,Karur,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+47,Karur Heritage Hotel,Karur,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+48,Karur Residency Hotel,Karur,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+49,Namakkal Grand Hotel,Namakkal,Tamil Nadu,Luxury,4.6,5300,"WiFi, Pool, Gym, Breakfast, Parking",5
+50,Namakkal Comfort Hotel,Namakkal,Tamil Nadu,Premium,4.3,3700,"WiFi, Breakfast, Parking, AC",9
+51,Namakkal Heritage Hotel,Namakkal,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+52,Namakkal Residency Hotel,Namakkal,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+53,Krishnagiri Grand Hotel,Krishnagiri,Tamil Nadu,Luxury,4.6,5300,"WiFi, Pool, Gym, Breakfast, Parking",5
+54,Krishnagiri Comfort Hotel,Krishnagiri,Tamil Nadu,Premium,4.3,3400,"WiFi, Breakfast, Parking, AC",9
+55,Krishnagiri Heritage Hotel,Krishnagiri,Tamil Nadu,Standard,4.1,2600,"WiFi, Restaurant, Parking, AC",12
+56,Krishnagiri Residency Hotel,Krishnagiri,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+57,Dharmapuri Grand Hotel,Dharmapuri,Tamil Nadu,Luxury,4.6,5400,"WiFi, Pool, Gym, Breakfast, Parking",5
+58,Dharmapuri Comfort Hotel,Dharmapuri,Tamil Nadu,Premium,4.3,3400,"WiFi, Breakfast, Parking, AC",9
+59,Dharmapuri Heritage Hotel,Dharmapuri,Tamil Nadu,Standard,4.1,2600,"WiFi, Restaurant, Parking, AC",12
+60,Dharmapuri Residency Hotel,Dharmapuri,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+61,Sivaganga Grand Hotel,Sivaganga,Tamil Nadu,Luxury,4.6,5400,"WiFi, Pool, Gym, Breakfast, Parking",5
+62,Sivaganga Comfort Hotel,Sivaganga,Tamil Nadu,Premium,4.3,3500,"WiFi, Breakfast, Parking, AC",9
+63,Sivaganga Heritage Hotel,Sivaganga,Tamil Nadu,Standard,4.1,2400,"WiFi, Restaurant, Parking, AC",12
+64,Sivaganga Residency Hotel,Sivaganga,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+65,Ramanathapuram Grand Hotel,Ramanathapuram,Tamil Nadu,Luxury,4.6,5500,"WiFi, Pool, Gym, Breakfast, Parking",5
+66,Ramanathapuram Comfort Hotel,Ramanathapuram,Tamil Nadu,Premium,4.3,3500,"WiFi, Breakfast, Parking, AC",9
+67,Ramanathapuram Heritage Hotel,Ramanathapuram,Tamil Nadu,Standard,4.1,2400,"WiFi, Restaurant, Parking, AC",12
+68,Ramanathapuram Residency Hotel,Ramanathapuram,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+69,Virudhunagar Grand Hotel,Virudhunagar,Tamil Nadu,Luxury,4.6,5500,"WiFi, Pool, Gym, Breakfast, Parking",5
+70,Virudhunagar Comfort Hotel,Virudhunagar,Tamil Nadu,Premium,4.3,3500,"WiFi, Breakfast, Parking, AC",9
+71,Virudhunagar Heritage Hotel,Virudhunagar,Tamil Nadu,Standard,4.1,2400,"WiFi, Restaurant, Parking, AC",12
+72,Virudhunagar Residency Hotel,Virudhunagar,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+73,Pudukkottai Grand Hotel,Pudukkottai,Tamil Nadu,Luxury,4.6,5600,"WiFi, Pool, Gym, Breakfast, Parking",5
+74,Pudukkottai Comfort Hotel,Pudukkottai,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+75,Pudukkottai Heritage Hotel,Pudukkottai,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+76,Pudukkottai Residency Hotel,Pudukkottai,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+77,Nagapattinam Grand Hotel,Nagapattinam,Tamil Nadu,Luxury,4.6,5600,"WiFi, Pool, Gym, Breakfast, Parking",5
+78,Nagapattinam Comfort Hotel,Nagapattinam,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+79,Nagapattinam Heritage Hotel,Nagapattinam,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+80,Nagapattinam Residency Hotel,Nagapattinam,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+81,Cuddalore Grand Hotel,Cuddalore,Tamil Nadu,Luxury,4.6,5200,"WiFi, Pool, Gym, Breakfast, Parking",5
+82,Cuddalore Comfort Hotel,Cuddalore,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+83,Cuddalore Heritage Hotel,Cuddalore,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+84,Cuddalore Residency Hotel,Cuddalore,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+85,Villupuram Grand Hotel,Villupuram,Tamil Nadu,Luxury,4.6,5300,"WiFi, Pool, Gym, Breakfast, Parking",5
+86,Villupuram Comfort Hotel,Villupuram,Tamil Nadu,Premium,4.3,3700,"WiFi, Breakfast, Parking, AC",9
+87,Villupuram Heritage Hotel,Villupuram,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+88,Villupuram Residency Hotel,Villupuram,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+89,Kallakurichi Grand Hotel,Kallakurichi,Tamil Nadu,Luxury,4.6,5300,"WiFi, Pool, Gym, Breakfast, Parking",5
+90,Kallakurichi Comfort Hotel,Kallakurichi,Tamil Nadu,Premium,4.3,3400,"WiFi, Breakfast, Parking, AC",9
+91,Kallakurichi Heritage Hotel,Kallakurichi,Tamil Nadu,Standard,4.1,2600,"WiFi, Restaurant, Parking, AC",12
+92,Kallakurichi Residency Hotel,Kallakurichi,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+93,Tiruvannamalai Grand Hotel,Tiruvannamalai,Tamil Nadu,Luxury,4.6,5400,"WiFi, Pool, Gym, Breakfast, Parking",5
+94,Tiruvannamalai Comfort Hotel,Tiruvannamalai,Tamil Nadu,Premium,4.3,3400,"WiFi, Breakfast, Parking, AC",9
+95,Tiruvannamalai Heritage Hotel,Tiruvannamalai,Tamil Nadu,Standard,4.1,2600,"WiFi, Restaurant, Parking, AC",12
+96,Tiruvannamalai Residency Hotel,Tiruvannamalai,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+97,Kanchipuram Grand Hotel,Kanchipuram,Tamil Nadu,Luxury,4.6,5400,"WiFi, Pool, Gym, Breakfast, Parking",5
+98,Kanchipuram Comfort Hotel,Kanchipuram,Tamil Nadu,Premium,4.3,3500,"WiFi, Breakfast, Parking, AC",9
+99,Kanchipuram Heritage Hotel,Kanchipuram,Tamil Nadu,Standard,4.1,2400,"WiFi, Restaurant, Parking, AC",12
+100,Kanchipuram Residency Hotel,Kanchipuram,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+101,Chengalpattu Grand Hotel,Chengalpattu,Tamil Nadu,Luxury,4.6,5500,"WiFi, Pool, Gym, Breakfast, Parking",5
+102,Chengalpattu Comfort Hotel,Chengalpattu,Tamil Nadu,Premium,4.3,3500,"WiFi, Breakfast, Parking, AC",9
+103,Chengalpattu Heritage Hotel,Chengalpattu,Tamil Nadu,Standard,4.1,2400,"WiFi, Restaurant, Parking, AC",12
+104,Chengalpattu Residency Hotel,Chengalpattu,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+105,Tiruvallur Grand Hotel,Tiruvallur,Tamil Nadu,Luxury,4.6,5500,"WiFi, Pool, Gym, Breakfast, Parking",5
+106,Tiruvallur Comfort Hotel,Tiruvallur,Tamil Nadu,Premium,4.3,3500,"WiFi, Breakfast, Parking, AC",9
+107,Tiruvallur Heritage Hotel,Tiruvallur,Tamil Nadu,Standard,4.1,2400,"WiFi, Restaurant, Parking, AC",12
+108,Tiruvallur Residency Hotel,Tiruvallur,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+109,Ranipet Grand Hotel,Ranipet,Tamil Nadu,Luxury,4.6,5600,"WiFi, Pool, Gym, Breakfast, Parking",5
+110,Ranipet Comfort Hotel,Ranipet,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+111,Ranipet Heritage Hotel,Ranipet,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+112,Ranipet Residency Hotel,Ranipet,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+113,Tenkasi Grand Hotel,Tenkasi,Tamil Nadu,Luxury,4.6,5600,"WiFi, Pool, Gym, Breakfast, Parking",5
+114,Tenkasi Comfort Hotel,Tenkasi,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+115,Tenkasi Heritage Hotel,Tenkasi,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+116,Tenkasi Residency Hotel,Tenkasi,Tamil Nadu,Budget,3.9,1700,"WiFi, AC, Parking",15
+117,Mayiladuthurai Grand Hotel,Mayiladuthurai,Tamil Nadu,Luxury,4.6,5200,"WiFi, Pool, Gym, Breakfast, Parking",5
+118,Mayiladuthurai Comfort Hotel,Mayiladuthurai,Tamil Nadu,Premium,4.3,3600,"WiFi, Breakfast, Parking, AC",9
+119,Mayiladuthurai Heritage Hotel,Mayiladuthurai,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+120,Mayiladuthurai Residency Hotel,Mayiladuthurai,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+121,Ariyalur Grand Hotel,Ariyalur,Tamil Nadu,Luxury,4.6,5300,"WiFi, Pool, Gym, Breakfast, Parking",5
+122,Ariyalur Comfort Hotel,Ariyalur,Tamil Nadu,Premium,4.3,3700,"WiFi, Breakfast, Parking, AC",9
+123,Ariyalur Heritage Hotel,Ariyalur,Tamil Nadu,Standard,4.1,2500,"WiFi, Restaurant, Parking, AC",12
+124,Ariyalur Residency Hotel,Ariyalur,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
+125,Perambalur Grand Hotel,Perambalur,Tamil Nadu,Luxury,4.6,5300,"WiFi, Pool, Gym, Breakfast, Parking",5
+126,Perambalur Comfort Hotel,Perambalur,Tamil Nadu,Premium,4.3,3400,"WiFi, Breakfast, Parking, AC",9
+127,Perambalur Heritage Hotel,Perambalur,Tamil Nadu,Standard,4.1,2600,"WiFi, Restaurant, Parking, AC",12
+128,Perambalur Residency Hotel,Perambalur,Tamil Nadu,Budget,3.9,1800,"WiFi, AC, Parking",15
